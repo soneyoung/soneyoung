@@ -6,4 +6,3 @@
 
 ### Experience
 - 🎓 Kookmin University
-- 🍕 Neuro, Back-end Developer & Product Manager Intern (2021.03~2021.8)
